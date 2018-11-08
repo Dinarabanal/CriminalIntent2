@@ -1,4 +1,4 @@
-package edu.cnm.deepdive.criminalintent;
+package edu.cnm.deepdive.criminalintent.Model;
 
 import java.util.Date;
 import java.util.UUID;
